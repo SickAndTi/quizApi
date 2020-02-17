@@ -1,0 +1,1 @@
+alter table quiz_translations alter column description type text using description::text;

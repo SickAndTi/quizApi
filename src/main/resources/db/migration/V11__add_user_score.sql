@@ -1,0 +1,1 @@
+alter table users ADD COLUMN IF NOT EXISTS "score" INT8 NOT NULL DEFAULT '0' ;

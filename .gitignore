@@ -1,0 +1,10 @@
+/.idea/*
+!/.idea/.name
+!/.idea/dictionaries
+
+.gradle
+build
+
+logs
+
+application*.properties

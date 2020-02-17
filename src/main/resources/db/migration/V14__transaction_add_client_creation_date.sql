@@ -1,0 +1,1 @@
+alter table quiz_transaction ADD COLUMN IF NOT EXISTS created_on_client TEXT;
